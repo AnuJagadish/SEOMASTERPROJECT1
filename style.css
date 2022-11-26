@@ -101,17 +101,17 @@
                 bottom: 0;
             }
             
-            @media only screen and (max-width: 800px) {
+            @media only screen and (max-width: 750px) {
                 .image1 {
                     position: absolute;
-                    left: 5%;
-                    width: 3vw;
-                    height: 3vh;
+                    left: 3%;
+                    width: 4vw;
+                    height: 4vh;
                 }
                 li {
                     display: inline;
                     position: relative;
-                    left: 10%;
+                    left: 6%;
                 }
                 .nav-button {
                     position: relative;
